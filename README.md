@@ -1,7 +1,6 @@
 Customer Shopping Behavior Analysis
 
-End-to-end data analytics workflow. Python (cleaning) to PostgreSQL (analysis) to Power BI (visualization).
-
+Built an end-to-end ETL pipeline using Python and Pandas to extract, clean, transform, and load customer shopping behaviour data into PostgreSQL, with the processed data connected to Power BI for reporting and visualization.
 
 Project Overview
 
